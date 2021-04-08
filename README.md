@@ -3,9 +3,9 @@
 <img src="https://user-images.githubusercontent.com/3329008/114069542-586ce980-98b4-11eb-8e18-c625cb8812d1.png" />
 </p>
 <p align="center">
-  <a href="https://packagist.org/packages/pejmankheyri/smsir-smsirlaravel"><img src="https://poser.pugx.org/pejmankheyri/smsir-smsirlaravel/v/stable" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/pejmankheyri/smsir-smsirlaravel"><img src="https://img.shields.io/packagist/dt/pejmankheyri/smsir-smsirlaravel" alt="Total Downloads"></a>
-  <a href="https://packagist.org/packages/pejmankheyri/smsir-smsirlaravel"><img src="https://poser.pugx.org/pejmankheyri/smsir-smsirlaravel/d/monthly" alt="Monthly Downloads"></a>
+  <a href="https://packagist.org/packages/pejmankheyri/smsirlaravel"><img src="https://poser.pugx.org/pejmankheyri/smsirlaravel/v/stable" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/pejmankheyri/smsirlaravel"><img src="https://img.shields.io/packagist/dt/pejmankheyri/smsirlaravel" alt="Total Downloads"></a>
+  <a href="https://packagist.org/packages/pejmankheyri/smsirlaravel"><img src="https://poser.pugx.org/pejmankheyri/smsirlaravel/d/monthly" alt="Monthly Downloads"></a>
 
 </p>
 <div dir="rtl">
@@ -15,15 +15,15 @@
 یک پکیج کاربردی برای ارسال پیامک از طریق پنل sms.ir
 
 
-> [نصب](https://github.com/pejmankheyri/SMSIR-SmsirLaravel#%D9%86%D8%B5%D8%A8)
+> [نصب](https://github.com/pejmankheyri/SmsirLaravel#%D9%86%D8%B5%D8%A8)
 > 
-> [امکانات](https://github.com/pejmankheyri/SMSIR-SmsirLaravel#%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA)
+> [امکانات](https://github.com/pejmankheyri/SmsirLaravel#%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA)
 > 
-> [تنظیمات](https://github.com/pejmankheyri/SMSIR-SmsirLaravel#%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA)
+> [تنظیمات](https://github.com/pejmankheyri/SmsirLaravel#%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA)
 > 
-> [کمک به توسعه](https://github.com/pejmankheyri/SMSIR-SmsirLaravel#%DA%A9%D9%85%DA%A9-%D8%A8%D9%87-%D8%AA%D9%88%D8%B3%D8%B9%D9%87)
+> [کمک به توسعه](https://github.com/pejmankheyri/SmsirLaravel#%DA%A9%D9%85%DA%A9-%D8%A8%D9%87-%D8%AA%D9%88%D8%B3%D8%B9%D9%87)
 > 
-> [لایسنس](https://github.com/pejmankheyri/SMSIR-SmsirLaravel#%D9%84%D8%A7%DB%8C%D8%B3%D9%86%D8%B3)
+> [لایسنس](https://github.com/pejmankheyri/SmsirLaravel#%D9%84%D8%A7%DB%8C%D8%B3%D9%86%D8%B3)
 
 ## نصب با آپلود فایل
 
