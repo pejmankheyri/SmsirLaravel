@@ -27,14 +27,17 @@
 
 ## نصب با آپلود فایل
 
+</div>
 ```
 composer require ipecompany/smsirlaravel
 php artisan vendor:publish
 php artisan migrate
 ```
+<div dir="rtl">
 
 ## امکانات
 
+</div>
 * `Smsirlaravel::send()`
 * `Smsirlaravel::credit()`
 * `Smsirlaravel::getLines()`
@@ -46,18 +49,21 @@ php artisan migrate
 * `Smsirlaravel::ultraFastSend()`
 * `Smsirlaravel::getSentMessages()`
 * `Smsirlaravel::getReceivedMessages()`
+<div dir="rtl">
 
 ## تنظیمات
 
 * این کد را در فایل `app.php` بخش providers اضافه کنید: `ipecompany\smsirlaravel\SmsirlaravelServiceProvider::class,`
 * این کد را در فایل `app.php` بخش aliases اضافه کنید: `'Smsirlaravel' => ipecompany\smsirlaravel\SmsirlaravelFacade::class,`
 * بعد از publish کردن پکیج فایل `smsirlaravel.php` را در پوشه config باز کنید و تنظیمات را مانند زیر انجام دهید:
+</div>
 ```
 'webservice-url' => env('SMSIR-WEBSERVICE-URL','https://ws.sms.ir/'),
 'api-key' => env('SMSIR-API-KEY','Your sms.ir api key'),
 'secret-key' => env('SMSIR-SECRET-KEY','Your sms.ir secret key'),
 'line-number' => env('SMSIR-LINE-NUMBER','Your sms.ir line number'
 ```
+<div dir="rtl">
 
 ## کمک به توسعه
 
