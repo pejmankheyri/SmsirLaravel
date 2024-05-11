@@ -10,11 +10,11 @@
 </p>
 <div dir="rtl">
 
-# ارسال پیامک توسط لاراول
+# Send SMS by Laravel
 
-یک پکیج کاربردی برای ارسال پیامک از طریق پنل sms.ir
+A practical package for sending SMS through the sms.ir panel
 
-## نصب
+## Installation
 
 </div>
 
@@ -30,7 +30,7 @@ php artisan migrate
 
 <div dir="rtl">
 
-## امکانات
+## Features
 
 </div>
 
@@ -48,11 +48,11 @@ php artisan migrate
 
 <div dir="rtl">
 
-## تنظیمات
+## Settings
 
-* این کد را در فایل `app.php` بخش providers اضافه کنید: `pejmankheyri\smsirlaravel\SmsirlaravelServiceProvider::class,`
-* این کد را در فایل `app.php` بخش aliases اضافه کنید: `'Smsirlaravel' => pejmankheyri\smsirlaravel\SmsirlaravelFacade::class,`
-* بعد از publish کردن پکیج فایل `smsirlaravel.php` را در پوشه config باز کنید و تنظیمات را مانند زیر انجام دهید:
+* Add this code in the `app.php` file in the providers section: `pejmankheyri\smsirlaravel\SmsirlaravelServiceProvider::class,`
+* Add this code in the `app.php` file in the aliases section: `'Smsirlaravel' => pejmankheyri\smsirlaravel\SmsirlaravelFacade::class,`
+* After publishing the package, open the `smsirlaravel.php` file in the config folder and make the settings as below:
 
 </div>
 
@@ -69,13 +69,13 @@ php artisan migrate
 
 <div dir="rtl">
 
-## کمک به توسعه
+## Development Assistance
 
-از Pull request ها استقبال می کنیم.
+We welcome pull requests.
 
-برای تغییرات عمده ، لطفاً ابتدا یک issue را باز کنید تا در مورد آنچه می خواهید تغییر دهیم و بحث کنیم.
+For major changes, please open an issue first so we can discuss what you want to change.
 
-## لایسنس
+## License
 
 MIT
 
